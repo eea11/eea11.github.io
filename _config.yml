@@ -6,7 +6,7 @@
 name: Emmanuel Alaeze
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Nigerian student going to SCS in Seoul, Korea
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://www.justinmaller.com/img/projects/wallpaper/WP_Meta_IV-3840x2160_00249.jpg
@@ -18,7 +18,7 @@ avatar: http://www.justinmaller.com/img/projects/wallpaper/WP_Meta_IV-3840x2160_
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: emmanuelalaeze@seoulchristian.org
   facebook:
   flickr:
   github: eea11/jekyll-now
