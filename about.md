@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about ME!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I am from Nigeria, but I was born and live in Korea. I am 12. I have a brother and a sister. I am in 7th grade. I am pretty short, though.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emmanuelalaeze@seoulchristian.org](emmanuelalaeze@seoulchristian.org)
